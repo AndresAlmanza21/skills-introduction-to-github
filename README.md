@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Congratulations AndresAlmanza21! 🎉
+# 🎉 Congratulations Andrés López Almanza! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
